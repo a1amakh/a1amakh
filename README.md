@@ -1,7 +1,6 @@
+![MasterHear](https://art.pixilart.com/16c3630a9147a08.gif)
 <h1 align="center">Hi 👋, I'm Alexey Kukalevich</h1>
 <h3 align="center">I am a beginner Java developer</h3>
-[MasterHear](https://art.pixilart.com/16c3630a9147a08.gif)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1amakh&label=Profile%20views&color=0e75b6&style=flat" alt="a1amakh" /> </p>
 
