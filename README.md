@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a1amakh&label=Profile%20views&color=0e75b6&style=flat" alt="a1amakh" /> </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://ryan-lanciaux-counter.glitch.me/ryanlanciaux/count.svg" />
+  <img src="https://githubcounter.glitch.me/a1amakh/count.svg" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
