@@ -3,10 +3,6 @@
 <h3 align="center">I am a beginner Java developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a1amakh&label=Profile%20views&color=0e75b6&style=flat" alt="a1amakh" /> </p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://githubcounter.glitch.me/a1amakh/count.svg" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
